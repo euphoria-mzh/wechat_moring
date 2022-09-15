@@ -50,16 +50,16 @@ export const config = {
       ]
     },
     {
-      name: "老婆1",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
+      name: "闫雨萌",
+      id: "oWgIg5rzE-9uqseuFAEp6aCmuU2A",
+      useTemplateId: "qhbYrhmUqlBlgTREsMc-A_5xk6M1eFe-U5MKnF6elco",
+      province: "山东",
+      city: "济南",
+      horoscopeDate: '09-21',
+      horoscopeDateType: '今日',
+      openUrl: "https://euphoria-mzh.gitee.io/euphoria-mzh.gitee.io",
+      festivals: [ {"type": "*生日", "name": "老婆", "year": "2000", "date": "09-21"},],
+      customizedDateList: [ {"keyword": "love_day", date: "2022-09-08"},]
     },
     {
       name: "老婆2",
